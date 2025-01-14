@@ -128,3 +128,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+npx.ps1
+npx
+npm.ps1
+corepack
+install_tools.bat
+corepack.cmd
+node.exe
+nodevars.bat
+npm
+npm.cmd
+npx.cmd
